@@ -31,7 +31,7 @@ feature managed by its own microservice.
 ------------------------------------------------------------------------
 
 # Architecture Diagram 
-<img align="right" width="370" height="290" src="https://drive.google.com/file/d/1t4vsjT1zZPq1SWREen9bS2uBoMYCNQit/view?usp=sharing">
+  Architecture Image Link: "https://drive.google.com/file/d/1t4vsjT1zZPq1SWREen9bS2uBoMYCNQit/view?usp=sharing"
   
 ------------------------------------------------------------------------
 
