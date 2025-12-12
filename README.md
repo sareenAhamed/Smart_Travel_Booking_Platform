@@ -26,14 +26,13 @@ feature managed by its own microservice.
 
   **Payment Service**   8085            Processes booking payments
 
-  **Notification        8086            Sends email notifications
-  Service**                             
-  ------------------------------------------------------------------------
+  **Notification Service**        8086            Sends email notifications                             
 
 ------------------------------------------------------------------------
 
 # Architecture Diagram 
-
+<img align="right" width="370" height="290" src="https://drive.google.com/file/d/1t4vsjT1zZPq1SWREen9bS2uBoMYCNQit/view?usp=sharing">
+https://drive.google.com/file/d/1t4vsjT1zZPq1SWREen9bS2uBoMYCNQit/view?usp=sharing
   
 ------------------------------------------------------------------------
 
